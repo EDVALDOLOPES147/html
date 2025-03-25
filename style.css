@@ -1,0 +1,22 @@
+h1 {
+    color: orange;
+}
+h2 {
+    color: #2600ff;
+}
+body{
+    background-color: chocolate;
+    color: aliceblue;
+    font-family: monospace;
+    text-align: center;
+}
+header {
+        border-bottom: 1px solid green;
+}
+    footer{
+        border-top: 1px solid green;
+        position: fixed;
+        width: 100%;
+        bottom:20px;
+        
+    }
